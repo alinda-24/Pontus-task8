@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-Y8PvpRVRRKdv1RL52zWL3XYJ.png?st=2024-11-06T16%3A42%3A08Z&se=2024-11-06T18%3A42%3A08Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T19%3A50%3A20Z&ske=2024-11-06T19%3A50%3A20Z&sks=b&skv=2024-08-04&sig=mLUl/ytZgBh0Yvocc9i5vCmpCAi%2BsIeAmCivVVJJtdM%3D)
+
 ### 🎮 Programming Task: Lost in the Corridors of KTH
 
 Welcome to your new programming challenge! In this task, you'll create a text-based adventure game titled **"Lost in the Corridors of KTH"**, where a player must navigate through various rooms and hallways within KTH's labyrinthine structure. The player is urgently searching for a restroom before time runs out. You'll learn to design classes, creatively program a game, and utilize file data to instantiate objects.
