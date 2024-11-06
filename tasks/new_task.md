@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-yCPb7W1sycSbTHTyg35jPIXU.png?st=2024-11-06T16%3A21%3A13Z&se=2024-11-06T18%3A21%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T19%3A33%3A55Z&ske=2024-11-06T19%3A33%3A55Z&sks=b&skv=2024-08-04&sig=Xvc92CXKE1MX5J5SFUzIGdxhHKw3SGtzMtgqoVZREv4%3D)
+
 # 🎃 Haunted House Text Adventure Game
 
 Welcome to the Haunted House text adventure game project! This task will guide you through designing and coding a simple, interactive horror-themed game. Your objective is to explore a creepy haunted house, where your choices will determine your fate. Each room you enter offers a chance to gain points or face penalties. Collect items, make wise decisions, and survive with more than 0 points to avoid meeting an untimely end!
